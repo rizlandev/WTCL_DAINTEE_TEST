@@ -18,6 +18,34 @@
         {
           "item_id": 6,
           "item_distribution_target": "15"
+        },
+  {
+          "item_id": 10,
+          "item_distribution_target": "12"
+        },
+        {
+          "item_id": 12,
+          "item_distribution_target": "14"
+        },
+        {
+          "item_id": 15,
+          "item_distribution_target": "6"
+        },
+   {
+          "item_id": 18,
+          "item_distribution_target": "15"
+        },
+  {
+          "item_id": 22,
+          "item_distribution_target": "12"
+        },
+        {
+          "item_id": 32,
+          "item_distribution_target": "14"
+        },
+        {
+          "item_id": 50,
+          "item_distribution_target": "6"
         }
       ]
     }
