@@ -8,15 +8,15 @@
       "day_achievement": "137828.85",
       "must_sku": [
         {
-          "item_id": 170,
+          "item_id": 1,
           "item_distribution_target": "10"
         },
         {
-          "item_id": 384,
+          "item_id": 3,
           "item_distribution_target": "12"
         },
         {
-          "item_id": 406,
+          "item_id": 6,
           "item_distribution_target": "15"
         }
       ]
