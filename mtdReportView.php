@@ -13,8 +13,7 @@
       "collage_arch": 566,
       "productivity_tar": 860,
       "productivity_arch_old": 336,
-      "productivity_arch": 338,
-      "volume_tar_ache": [],  // remove this volume calculations 
+      "productivity_arch": 338, 
       "distribution_tar_ache": [ 
         {
           "item_id": 1,
